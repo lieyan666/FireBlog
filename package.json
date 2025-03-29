@@ -1,0 +1,26 @@
+{
+  "name": "fireblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lieyan666/FireBlog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lieyan666/FireBlog/issues"
+  },
+  "homepage": "https://github.com/lieyan666/FireBlog#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "lowdb": "^7.0.1"
+  }
+}
